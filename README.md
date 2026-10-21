@@ -12,4 +12,8 @@ Project 05version1 completed
 
 Project 05version2 completed
 
+<<<<<<< HEAD
 3rd Team Member: 이한울
+=======
+3rd Team Member: 20251060
+>>>>>>> feat/id3
